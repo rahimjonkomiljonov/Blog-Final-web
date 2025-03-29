@@ -1,0 +1,12 @@
+Bootstrap-Flask==2.2.0        # Compatible with Flask 2.3.2
+Flask-CKEditor==0.5.1        # Compatible with Flask 2.3.2
+Flask-Login==0.6.3          # Your specified version
+Flask-Gravatar==0.5.0       # Compatible with Flask 2.3.2
+Flask-WTF==1.2.1           # Compatible with Flask 2.3.2
+WTForms==3.1.2            # Compatible with Flask-WTF 1.2.1
+Werkzeug==3.0.0           # Your specified version
+Flask==2.3.2              # Your specified version
+Flask-SQLAlchemy==3.0.3   # Your specified version
+SQLAlchemy==1.4.50        # Your specified version
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
